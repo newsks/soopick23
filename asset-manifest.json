@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/soopick23/static/css/main.38d60ff1.css",
+    "main.js": "/soopick23/static/js/main.7acf37e2.js",
+    "static/media/banner.jpg": "/soopick23/static/media/banner.01f4dcc205389bbf1ffa.jpg",
+    "index.html": "/soopick23/index.html",
+    "main.38d60ff1.css.map": "/soopick23/static/css/main.38d60ff1.css.map",
+    "main.7acf37e2.js.map": "/soopick23/static/js/main.7acf37e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d60ff1.css",
+    "static/js/main.7acf37e2.js"
+  ]
+}
